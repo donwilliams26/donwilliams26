@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donwilliams26" alt="donwilliams26" /></a> </p>
 
-- 🔭 I’m currently working on [mini projects](Sass oriented)
+- 🔭 I’m currently working on mini projects - Sass oriented
 
 - 🌱 I’m currently learning **React, Mobx, GraphQL, Next.j, Design, testing and many others**
 
-- 👯 I’m looking to collaborate on [creating content](we learn by pushing boundaries)
+- 👯 I’m looking to collaborate on creating content, we learn by pushing boundaries
 
 - 🤝 I’m looking for help with **mentoring**
 
